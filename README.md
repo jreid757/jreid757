@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+<!-- My name is Jeremy Reid, welcome to my Github page.  I'm interested in cloud computing, and training to become DevOps Engineer. -->
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jeremy%20Reid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremyreid757/)](https://www.linkedin.com/in/jeremyreid757/)
+[![Medium Badge](https://img.shields.io/badge/Jeremy%20Reid-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@jeremyreid757)](https://medium.com/@jeremyreid757)
+[![Gmail Badge](https://img.shields.io/badge/-jcreid1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jcreid1@gmail.com)](mailto:jcreid1@gmail.com)
 
 ## ⚡ Technologies
 
